@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#01c7d2</color>
+    <color name="colorPrimaryDark">#00b2bc</color>
+    <color name="colorAccent">#ff706a</color>
+
+    <!--Cores Despesas!-->
+    <color name="colorPrimaryDespesa">#FF706A</color>
+    <color name="colorPrimaryDarkDespesa">#E66560</color>
+    <color name="colorPrimaryAccentDespesa">#FF706A</color>
+
+    <!--Cores Receitas!-->
+    <color name="colorPrimaryReceitas">#00D39E</color>
+    <color name="colorPrimaryDarkReceitas">#00BE8B</color>
+    <color name="colorPrimaryAccentReceitas">#00D39E</color>
+
+</resources>
